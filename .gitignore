@@ -1,0 +1,10 @@
+Product/
+UF/
+__pycache__/
+corrected_reflectivity_png
+corrected_velocity_png
+docker-compose.yaml
+mean_doppler_velocity_png
+radar_png
+reflectivity_png
+velocity_png
